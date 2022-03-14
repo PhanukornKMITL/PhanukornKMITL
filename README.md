@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phanukorn
-- 👀 I’m interested in ...game development
+- 👀 I’m interested in ...game development, blockchain development
 - 🌱 I’m graduated ...computer science and have experienced 8 months of working
 - 📫 You can contract me at phanukorn.khankrua@gmail.com
 
